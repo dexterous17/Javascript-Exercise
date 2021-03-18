@@ -14,7 +14,7 @@ Expected Output : 'Development'
                 longest = words[i];
             }
         }
-        console.log(longest);
+        console.log(longest); 
     }
     return longestWord;
 })()("Our patience will achieve more than our force.");
